@@ -32,7 +32,26 @@ A blazing-fast, mobile-optimized poker advisor designed for real-time use while 
 - Position guide built-in
 - No complex menus or settings to navigate
 
-## 🏃 Quick Start
+## 🌐 **Deploy for FREE (Recommended!)**
+
+**Want to use it anywhere without running npm?**
+
+Deploy to Vercel in 2 minutes and get a permanent URL you can bookmark:
+1. Go to [vercel.com/signup](https://vercel.com/signup)
+2. Sign up with GitHub
+3. Import this repository
+4. Click "Deploy"
+5. Done! Get a URL like `https://evaack.vercel.app`
+
+**See [DEPLOY.md](DEPLOY.md) for complete instructions**
+
+Now you can:
+- ✅ Access from any device (PC, phone, tablet)
+- ✅ No need to run npm start
+- ✅ Share with friends
+- ✅ Auto-updates when you push to GitHub
+
+## 🏃 Quick Start (Local Development)
 
 ### Installation
 
